@@ -1,0 +1,43 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+<!--         <h1 class="f1">
+          {{ .Title }}
+        </h1> -->
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | default "mid-gray" }}">
+        <style>
+          img[src$='#center']
+          {
+              display: block;
+              margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                                      whatever floats your boat, but keep the
+                                      horizontal 'auto' for this to work */
+              /* whatever else styles you fancy here */
+          }
+
+          img[src$='#floatleft']
+          {
+              float:left;
+              margin: 0.7rem;      /* this margin is totally up to you */
+              /* whatever else styles you fancy here */
+          }
+
+          img[src$='#floatright']
+          {
+              float:right;
+              margin: 0.7rem;       /*this margin is totally up to you 
+               whatever else styles you fancy here */
+
+          }
+        </style>
+        {{ .Content }}
+      </div>
+    </article>
+  </div>
+{{ end }}
