@@ -8,7 +8,6 @@ Kevin Humes Memorial Foundation Website
   - 2021 Walk
   - Baggo Tournament
   - Christmas Donations
-2. Publish to Netlify
 
 
 ## Docker Run Command
