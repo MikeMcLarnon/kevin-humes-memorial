@@ -3,7 +3,6 @@ Kevin Humes Memorial Foundation Website
 
 
 ## To Do
-1. Update Facebook Link
 
 
 ## Docker Run Command

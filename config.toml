@@ -14,11 +14,6 @@ Paginate = 3 # this is set low for demonstrating with dummy content. Set to a hi
     url = "/story/"
     weight = 1
   [[menu.main]]
-    name = "Events"
-    identifier = "events"
-    url = "/events/index.html"
-    weight = 2
-  [[menu.main]]
     name = "Store"
     identifier = "store"
     url = "https://kevin-humes-memorial-foundation.square.site"
