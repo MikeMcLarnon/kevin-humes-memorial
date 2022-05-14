@@ -3,11 +3,7 @@ Kevin Humes Memorial Foundation Website
 
 
 ## To Do
-1. Create Posts
-  - Bench
-  - 2021 Walk
-  - Baggo Tournament
-  - Christmas Donations
+1. Update Facebook Link
 
 
 ## Docker Run Command

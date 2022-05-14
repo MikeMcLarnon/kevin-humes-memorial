@@ -10,10 +10,6 @@ omit_header_text: true
 In Spring 2021, we placed a memorial bench in Kevin’s heaven on Earth – Sea Isle City.  Kevin spent his whole life vacationing in Sea Isle City with family and friends.  The bench was placed at his favorite spot on the bay where he spent countless nights in the summer watching the sunset with loved ones.
 
 
-
-Photos taken from the 80th and Roberts Ave in Sea Isle City.  
-
-
 ![bench](bench.jpg 'bench') 
 ![family](family.jpg 'family') 
 ![parents](parents.jpg 'parents') 
