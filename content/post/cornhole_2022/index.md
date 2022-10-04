@@ -13,7 +13,7 @@ successful event was full of friendly Cornhole competition, an exciting raffle, 
 
 A special thank you to …
 - RJ for organizing the event
-- Aick and Jimmy for making “Kevin’s Kolch”
+- Alick and Jimmy for making “Kevin’s Kolch”
 - Cythina and Jason (@youwraps) for creating a label for the beer
 - Lauren for helping setup the raffle
 - Henry James Saloon for hosting our event
