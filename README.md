@@ -12,7 +12,7 @@ docker run --rm -it \
   --name kevin-humes-memorial \
   -v $(pwd):/src \
   -p 1313:1313 \
-  klakegg/hugo:alpine \
+  klakegg/hugo:0.93.2-alpine \
   shell
   ```
 
