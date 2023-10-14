@@ -7,7 +7,7 @@ Kevin Humes Memorial Foundation Website
 
 ## Docker Run Command
 
-This will start a shell where you can launch the development server
+1. This will start a shell where you can launch the development server
 
 ```
 docker run --rm -it \
@@ -18,3 +18,4 @@ docker run --rm -it \
   shell
 ```
 
+2. Push updates to main branch and netlify will build and deploy the site
