@@ -19,3 +19,4 @@ docker run --rm -it \
 ```
 
 2. Push updates to main branch and netlify will build and deploy the site
+
