@@ -44,7 +44,7 @@ Our Donors!
 | North/South Bowl | Island Bowl | Oasis Family Center |
 | Expedition Escape | | |
 
-
+![img_1](group_photo_v2.JPG)
 ![img_2](playing.JPG)
 ![img_3](board.png)
 ![img_4](prizes.png)
