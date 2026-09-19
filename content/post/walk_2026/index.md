@@ -1,5 +1,5 @@
 ---
-title: "Fifth Annual Walk for Kevin"
+title: "6th Annual Walk for Kevin"
 date: 2026-05-17T16:53:46Z
 draft: false
 featured_image: "group_photo.jpg"
