@@ -2,7 +2,7 @@
 title: "Honoring Kevin on His 40th Birthday "
 date: 2024-05-20T16:53:46Z
 draft: false
-featured_image: "young_kevin_birthday.jpg"
+featured_image: "young_kevin_birthday_zoom.jpg"
 disable_share: true
 omit_header_text: true
 ---
