@@ -9,9 +9,9 @@ omit_header_text: true
 
 We are excited to announce that our 4th Annual Kevin Humes Memorial Cornhole Tournament raised an incredible $5,000! A sincere thank you to all our generous donors; your support will make a meaningful impact as we direct these funds to the CHOP Holiday Toy Drive and other local charities in Kevin’s memory.
 
-A huge thank you to everyone who joined us for this event. Your enthusiasm and camaraderie made the day truly special. Together, we are honoring Kevin’s legacy and making a positive difference in the lives of others.   A special congratulations to Jay and Bobby for reclaiming the championship title this year! 
+A huge thank you to everyone who joined us for this event. Your enthusiasm and camaraderie made the day truly special. Together, we are honoring Kevin’s legacy and making a positive difference in the lives of others. A special congratulations to Jay and Bobby for reclaiming the championship title this year!
 
-We look forward to sharing more about our upcoming initiatives and how we will continue to give back to our community in Kevin's name!
+We look forward to sharing more about our upcoming initiatives and how we will continue to give back to our community in Kevin’s name!
 
 
 
